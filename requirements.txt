@@ -4,7 +4,4 @@ scikit-learn
 matplotlib
 seaborn
 Jupyter
-Lightgbm
 Catboost
-Linearregression
-Randomforest
