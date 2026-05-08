@@ -6,5 +6,5 @@ seaborn
 Jupyter
 Lightgbm
 Catboost
-Linear regression
-Random forest
+Linearregression
+Randomforest
